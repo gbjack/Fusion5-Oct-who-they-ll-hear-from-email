@@ -150,7 +150,8 @@
                     <br /><br />
                 </mj-text>
                 <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="bold" line-height="27px">
-                    Thursday, 15 October | 12:00pm &ndash; 2:00pm<br />
+                    Thursday, 15 October<br /> 
+                    12:00pm &ndash; 2:00pm<br />
                     Society Restaurant, Melbourne
                 </mj-text>
             </mj-column>
