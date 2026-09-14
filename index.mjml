@@ -1,0 +1,196 @@
+<mjml lang="en" dir="ltr">
+  <mj-head>
+    <mj-title>Around the table | Meet Neil Waller and Jason Toshack</mj-title>
+    <mj-preview>Experience, perspective and an open conversation about what comes next.</mj-preview>
+
+    <mj-attributes>
+      <mj-all padding="0px" />
+    </mj-attributes>
+
+    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/fonts/Calibre-Bold.woff2" />
+    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/fonts/Calibre-Bold.woff" />
+
+    <mj-raw>
+        <!--[if mso]>
+            <style type="text/css">
+                body, table, td, p, a, span, font, div, h1, h2, h3, h4, h5, h6 {
+                    font-family: Arial, sans-serif !important;
+                }
+            </style>
+        <![endif]-->
+    </mj-raw>
+
+    <mj-style>
+        * { -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important; }
+
+            a[x-apple-data-detectors],
+            u + .body-wrapper a,
+            a.MsoHyperlink,
+            a.MsoHyperlinkFollowed {
+                color: inherit !important;
+                text-decoration: none !important;
+            }
+            
+
+            @media only screen and (max-width:480px) {
+                .mobile-center table {
+                    margin: 0 auto !important;
+                }
+                .mobile-center div {
+                    text-align: center !important;
+                }
+            }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section>
+        <mj-column>
+            <mj-image src="images/img-hero-600x344.jpg" alt="Hero image" width="600px" />
+        </mj-column>
+    </mj-section>
+    <mj-wrapper padding="0 23px 0 23px">
+
+        <mj-section padding-top="60px">
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                    Hi [firstname,fallback=],
+                    <br /><br />
+                    The best roundtables are the ones where the conversation gets real.
+                    <br /><br />
+                    That's exactly what we're aiming for at Society.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="50px 0 60px 0">
+            <mj-column>
+                <mj-divider border-width="1px" border-style="solid" border-color="#3F3B42" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 0 25px 0">
+                <mj-text font-family="Calibre, Arial, sans-serif" font-size="40px" font-weight="bold" line-height="49px" color="#FF5C39">
+                    Speakers
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px">
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                Joining the discussion will be:
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px">
+            <mj-column>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-style="normal" font-weight="bold" line-height="45px">
+                Neil Waller
+                </mj-text>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="18px" font-style="normal" font-weight="bold" line-height="26px">
+                    Senior Director, Account Management | Oracle NetSuite
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px">
+            <mj-column>
+                <mj-image src="images/img-neil-554x310.png" alt="Neil Waller" width="554px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="60px">
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                    With more than 20 years' experience helping organisations improve performance and maximise value, Neil works with business leaders across ANZ on growth, transformation and resilience.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px">
+            <mj-column>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-style="normal" font-weight="bold" line-height="45px">
+                Jason Toshack
+                </mj-text>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="18px" font-style="normal" font-weight="bold" line-height="26px">
+                    Commercial Director &ndash; NetSuite ANZ | Fusion5
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px">
+            <mj-column>
+                <mj-image src="images/img-jason-554x310.png" alt="Neil Waller" width="554px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                    Jason has spent more than 25 years helping organisations solve complex business challenges, improve operational performance and drive sustainable growth.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="50px 0 50px 0">
+            <mj-column>
+                <mj-divider border-width="1px" border-style="solid" border-color="#3F3B42" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                    Together with the leaders around the table, the conversation will explore what organisations are doing now to create greater visibility, move with confidence and scale without losing control.
+                    <br /><br />
+                    And we're looking forward to hearing what you bring to the conversation too.
+                    <br /><br />
+                </mj-text>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="bold" line-height="27px">
+                    Thursday, 15 October | 12:00pm &ndash; 2:00pmSociety Restaurant, Melbourne
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="50px 0 50px 0">
+            <mj-column width="48%">
+                <mj-image src="images/img-add-calendar-267x52.png" alt="Add to Calendar" width="267px" href="https://fusion5-oct-confirmation-email.vercel.app/images/event.ics" target="_blank" />
+            </mj-column>
+            <mj-column width="4%">
+                <mj-spacer height="20px" />
+            </mj-column>
+            <mj-column width="48%">
+                <mj-image src="images/img-add-google-267x52.png" alt="Add to Google Calendar" width="267px" href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20261015T010000Z%2F20261015T030000Z&details=Thank%20you%20for%20registering.%20We%20look%20forward%20to%20welcoming%20you%20to%20the%20Fusion5%20%2B%20NetSuite%20Executive%20Roundtable.%20This%20exclusive%20lunch%20brings%20together%20senior%20leaders%20across%20Manufacturing%2C%20Wholesale%20%26%20Distribution%20to%20discuss%20how%20AI%20is%20reshaping%20ERP%2C%20operations%20and%20business%20performance.%20You%27ll%20hear%20practical%20insights%20from%20Fusion5%20specialists%20and%20connect%20with%20peers%20facing%20similar%20challenges.%0A%0AEvent%20details%0ADate%3A%20Thursday%2C%2015%20October%202026%0ATime%3A%2012%3A00%20pm%20%E2%80%93%202%3A00%20pm%20%28please%20arrive%20from%2011%3A45%20am%29%0AVenue%3A%20Society%20Restaurant%2C%20Melbourne.%20%0AAddress%3A%2080%20Collin%20Street%2C%20Melbourne%2C%20VIC%203000&location=Society%20Restaurant.%2080%20Collins%20St%2C%20Melbourne%20VIC%203000.&text=Fusion5%20%2B%20NetSuite%20Executive%20Lunch%20-%20Visibility%20to%20Act.%20Confidence%20to%20Move." target="_blank" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="60px">
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
+                    See you around the table.
+                    <br /><br />
+                    <b>The Fusion5 Team</b>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="30px 23px 30px 23px" background-color="#000000">
+            <mj-column width="48%" vertical-align="bottom" css-class="mobile-center">
+                <mj-image src="images/img-logo-173x30.png" alt="Fusion5 + NetSuite logo" width="173px" align="left" />
+            </mj-column>
+        <mj-column width="4%">
+            <mj-spacer height="20px" />
+        </mj-column>
+        <mj-column width="48%" vertical-align="bottom" css-class="mobile-center">
+              <mj-text font-family="Calibre, Arial, sans-serif" font-size="12px" font-weight="normal" line-height="12px" color="#FFFFFF" align="right">
+                Unsubscribe&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;© 2026 Fusion5 Limited
+              </mj-text>
+        </mj-column>
+    </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
