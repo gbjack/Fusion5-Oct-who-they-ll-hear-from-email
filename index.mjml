@@ -186,7 +186,9 @@
         </mj-column>
         <mj-column width="48%" vertical-align="bottom" css-class="mobile-center">
               <mj-text font-family="Calibre, Arial, sans-serif" font-size="12px" font-weight="normal" line-height="12px" color="#FFFFFF" align="right">
-                Unsubscribe&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;© 2026 Fusion5 Limited
+                <mj-raw>
+                    <unsubscribe style="color: #ffffff; text-decoration: underline;">Unsubscribe</unsubscribe>&nbsp;&nbsp;|&nbsp;&nbsp;&copy; 2026 Fusion5 Limited
+                </mj-raw>
               </mj-text>
         </mj-column>
     </mj-section>
