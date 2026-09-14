@@ -56,7 +56,7 @@
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="normal" line-height="27px">
                     Hi [firstname,fallback=],
                     <br /><br />
-                    The best roundtables are the ones where the conversation gets real.
+                    <b>The best roundtables are the ones where the conversation gets real.</b>
                     <br /><br />
                     That's exactly what we're aiming for at Society.
                 </mj-text>
@@ -150,7 +150,8 @@
                     <br /><br />
                 </mj-text>
                 <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="21px" font-style="normal" font-weight="bold" line-height="27px">
-                    Thursday, 15 October | 12:00pm &ndash; 2:00pmSociety Restaurant, Melbourne
+                    Thursday, 15 October | 12:00pm &ndash; 2:00pm<br />
+                    Society Restaurant, Melbourne
                 </mj-text>
             </mj-column>
         </mj-section>
